@@ -22,12 +22,12 @@
 |자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오|[#9](../../issues/9)|
 |iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?|[#10](../../issues/10)|
 |Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.|[#13](../../issues/13)|
-|Delegate란 무언인가 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.|[link]()|
-|NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.|[link]()|
-|UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?|[link]()|
-|TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.|[link]()|
-|하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.|[link]()|
-|App Bundle의 구조와 역할에 대해 설명하시오.|[link]()|
+|Delegate란 무언인가 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.|[#14](../../issues/14)|
+|NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.|[#15](../../issues/15)|
+|UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?|[#16](../../issues/16)|
+|TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.|[#17](../../issues/17)|
+|하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.|[#18](../../issues/18)|
+|App Bundle의 구조와 역할에 대해 설명하시오.|[#19](../../issues/19)|
 |View 객체에 대해 설명하시오.|[link]()|
 |UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.|[link]()|
 |UIWindow 객체의 역할은 무엇인가?|[link]()|
@@ -46,8 +46,8 @@
 
 |면접 질문|링크|
 |--|--|
-|오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)|[link]()|
-|hugging, resistance에 대해서 설명하시오.|[link]()|
+|오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)|[#20](../../issues/20)|
+|hugging, resistance에 대해서 설명하시오.|[#21](../../issues/21)|
 |Intrinsic Size에 대해서 설명하시오.|[link]()|
 |스토리보드를 이용했을때의 장단점을 설명하시오.|[link]()|
 |Safearea에 대해서 설명하시오.|[link]()|
@@ -57,7 +57,7 @@
 
 |면접 질문|링크|
 |--|--|
-|Optional 이란 무엇인지 설명하시오.|[link]()|
+|Optional 이란 무엇인지 설명하시오.|[#22](../../issues/22)|
 |Fast Enumeration 이란 무엇인지 설명하시오. |[link]()|
 |Struct 가 무엇이고 어떻게 사용하는지 설명하시오.|[link]()|
 |instance 메서드와 class 메서드의 차이점을 설명하시오.|[link]()|
