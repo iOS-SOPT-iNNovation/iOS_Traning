@@ -105,6 +105,10 @@
 
 Objective-c나 rx는 회사, 팀마다 사용하는곳이 차이가있고 신입이나 주니어기준으로 필수라고 여겨지지않기에 옵셔널에 추가하였습니다.
 
+<details>
+<summary>고급</summary>
+<div markdown="1">
+ 
 ## Advanced
 
 |면접 질문|링크|
@@ -138,3 +142,6 @@ Objective-c나 rx는 회사, 팀마다 사용하는곳이 차이가있고 신입
 |--|--|
 |Reactive Programming이 무엇인지 설명하시오.|[link]()|
 |RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.|[link]()|
+
+</div>
+</details>
