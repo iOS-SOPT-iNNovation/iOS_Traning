@@ -58,9 +58,9 @@
 |면접 질문|링크|
 |--|--|
 |Optional 이란 무엇인지 설명하시오.|[#22](../../issues/22)|
-|Fast Enumeration 이란 무엇인지 설명하시오. |[link]()|
-|Struct 가 무엇이고 어떻게 사용하는지 설명하시오.|[link]()|
-|instance 메서드와 class 메서드의 차이점을 설명하시오.|[link]()|
+|Fast Enumeration 이란 무엇인지 설명하시오. |[#23](../../issues/23)|
+|Struct 가 무엇이고 어떻게 사용하는지 설명하시오.|[#24](../../issues/24)|
+|instance 메서드와 class 메서드의 차이점을 설명하시오.|[#25](../../issues/25)|
 |Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.|[link]()|
 |Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.|[link]()|
 |KVO 동작 방식에 대해 설명하시오.|[link]()|
