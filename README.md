@@ -48,8 +48,8 @@
 |--|--|
 |오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)|[#20](../../issues/20)|
 |hugging, resistance에 대해서 설명하시오.|[#21](../../issues/21)|
-|Intrinsic Size에 대해서 설명하시오.|[link]()|
-|스토리보드를 이용했을때의 장단점을 설명하시오.|[link]()|
+|Intrinsic Size에 대해서 설명하시오.|[#28](../../issues/28)|
+|스토리보드를 이용했을때의 장단점을 설명하시오.|[#29](../../issues/29)|
 |Safearea에 대해서 설명하시오.|[link]()|
 |Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.|[link]()|
 
@@ -61,8 +61,8 @@
 |Fast Enumeration 이란 무엇인지 설명하시오. |[#23](../../issues/23)|
 |Struct 가 무엇이고 어떻게 사용하는지 설명하시오.|[#24](../../issues/24)|
 |instance 메서드와 class 메서드의 차이점을 설명하시오.|[#25](../../issues/25)|
-|Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.|[link]()|
-|Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.|[link]()|
+|Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.|[#30](../../issues/30)|
+|Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.|[#31](../../issues/31)|
 |KVO 동작 방식에 대해 설명하시오.|[link]()|
 |Delegates와 Notification 방식의 차이점에 대해 설명하시오.|[link]()|
 |멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.|[link]()|
